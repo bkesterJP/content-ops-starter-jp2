@@ -25,7 +25,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: BRINGING DEEP TECH TO MARKET
+      label: DEEP THINKING FOR DEEP TECHNOLOGIES
       color: text-primary
       type: Badge
     elementId: ''

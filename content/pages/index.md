@@ -40,7 +40,7 @@ sections:
             - pr-2
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 8
+          borderWidth: 0
           borderRadius: small
           margin:
             - mr-0

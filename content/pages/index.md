@@ -12,13 +12,15 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      We help technical founders define a market innovation path with discovery
-      customer acquisition, GTM strategy, starter capital, product launch and
-      fundraising assistance.
+      We help technical founders define and execute a market innovation path via
+      discovery customer acquisition, GTM strategy, starter capital, product
+      launch and fundraising assistance. In short, we love engineers and the
+      kinds of tech you see in SciFi movies—and we want to help you make a
+      business out of it.
 
 
-      Our focus is on companies building cloud-native products that leverage
-      real-time data from machines, mobile apps, and proprietary data stores.
+      Our investment thesis focuses on cloud-native products that leverage
+      real-time data from remote machines, mobile apps, and data stores.
     actions: []
     media:
       type: VideoBlock
@@ -32,8 +34,8 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
+            - pt-10
+            - pb-10
             - pl-2
             - pr-2
           borderColor: border-dark
@@ -71,7 +73,8 @@ sections:
         text: >
           Above is a no code data management platform that abstracts away
           traditional database and logic layers so product managers can build
-          working prototype software in about a day.
+          working prototype products in about a day, and quickly connect them to
+          a variety of systems and data sources.
 
 
           Massive product still in moonlight development.
@@ -129,9 +132,9 @@ sections:
         subtitle: AI for IoT
         text: >
           Makes the process of building, deploying, and scaling embedded AI and
-          ML applications easier and faster than ever. Edge Impulse may be
-          running on many of the consumer and commercial products you use every
-          day.
+          ML applications easier and faster than ever. Edge Impulse may already
+          be running on many of the consumer and commercial products you already
+          use.
 
 
           Currently Series B with $53M raised.
@@ -298,6 +301,9 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

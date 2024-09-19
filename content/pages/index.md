@@ -25,7 +25,7 @@ sections:
     media:
       type: VideoBlock
       title: Engineering Simplicity
-      url: /images/placeholder-video.mp4
+      url: /images/3188904-hd_1920_1080_25fps.mp4
       autoplay: true
       loop: true
       muted: true

@@ -312,4 +312,5 @@ seo:
   type: Seo
   metaDescription: Jetpath Ventures
   metaTitle: Jetpath Ventures
+  socialImage: /images/jetpath.png
 ---

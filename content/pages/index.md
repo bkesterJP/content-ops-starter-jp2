@@ -134,9 +134,9 @@ sections:
         tagline: This is the tagline
         subtitle: Fintech
         text: >
-          rtzen is helping mid-market CFOs  simplify cash operations, by using
-          AI to ingest complicated financial data streams and act autonomously
-          to optimize cash and generate income. 
+          rtzen is helping mid-market CFOs optimize treasury operations , by
+          using AI to ingest complicated financial data streams and act
+          autonomously to generate income.
 
 
           Current Series seed with $4M raised.

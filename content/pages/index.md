@@ -282,11 +282,6 @@ sections:
 
 
     actions: []
-    media:
-      url: /images/main-hero.svg
-      altText: Making deep technology useful and accessible to all
-      elementId: ''
-      type: ImageBlock
     badge:
       label: DEEP STRATEGY FOR DEEP TECHNOLOGIES
       color: text-primary

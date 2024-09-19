@@ -25,7 +25,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: DEEP STRATEGIES FOR DEEP TECHNOLOGIES
+      label: DEEP STRATEGY FOR DEEP TECHNOLOGIES
       color: text-primary
       type: Badge
     elementId: ''

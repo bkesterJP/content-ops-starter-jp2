@@ -44,7 +44,7 @@ sections:
           borderRadius: small
           margin:
             - mr-0
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         flexDirection: row

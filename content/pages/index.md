@@ -12,9 +12,9 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      We help technical founders define a market innovation path with discovery
-      customer acquisition, GTM strategy, starter capital, product launch and
-      fundraising assistance.
+      We help technical founders define and execute a market innovation path via
+      discovery customer acquisition, GTM strategy, starter capital, product
+      launch and fundraising assistance.
 
 
       Our focus is on companies building cloud-native products that leverage

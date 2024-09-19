@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: No longer active
+      text: 'The future is real time, intelligent and automatic'
       color: text-dark
       styles:
         self:

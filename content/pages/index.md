@@ -159,7 +159,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Sitewire
         tagline: ''
         subtitle: Construction Fintech
         text: |

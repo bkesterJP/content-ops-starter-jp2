@@ -270,14 +270,13 @@ sections:
       type: TitleBlock
     subtitle: We're no longer active
     text: >
-      <div style="text-align: left">Our first pre-seed fund has been fully
-      invested, and after the pandemic, our band decided to move in different
-      directions. Our Managing Director is now developing Sitewire into a
-      standout company at the intersection of Construction and Real Estate
-      Finance . If you're interested in joining that team of killer senior
-      technologist in Rails, React, Mobile and 3D Visualization, feel free to
-      reach out to [Bryan Kester on
-      LinkedIn](https://www.linkedin.com/in/bryan-kester/).</div>
+      <div style="text-align: left">Our pre-seed fund has been fully invested,
+      and after the pandemic, our band decided to move in different directions.
+      Our Managing Director is now developing Sitewire into a standout company
+      at the intersection of Construction and Real Estate Finance . If you're
+      interested in joining that team of killer senior technologist in Rails,
+      React, Mobile and 3D Visualization, feel free to reach out to [Bryan
+      Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).</div>
 
 
       For mentorship or acceleration support, we suggest connecting with

@@ -131,7 +131,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: rtzen AI
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Fintech
         text: >
           rtzen is helping mid-market CFOs optimize treasury operations , by

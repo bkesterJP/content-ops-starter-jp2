@@ -201,16 +201,14 @@ sections:
         title: Vorga
         tagline: ''
         subtitle: IoT
-        text: >+
+        text: >
           Vorga was a promising cloud and hardware offering to help cannabis
-          producers precisely measure THC and CDB levels. Got caught in the
-          Cannabis market fallout.
+          producers precisely measure THC and CDB levels. It was a bet on
+          regulation in various state pipelins but the company got caught in the
+          Cannabis market meltdown.
 
 
-          Shut down.  ¯\\\_(ツ)\_/¯
-
-
-
+          Gone.  ¯\\\_(ツ)\_/¯
         image:
           type: ImageBlock
           url: /images/vorga.png

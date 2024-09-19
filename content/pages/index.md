@@ -104,7 +104,7 @@ sections:
       - type: FeaturedItem
         title: Edge Impulse
         tagline: ''
-        subtitle: AI and Machine Learning for Small and Tiny Devices
+        subtitle: AI and Machine Learning
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

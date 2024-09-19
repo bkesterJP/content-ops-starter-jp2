@@ -311,4 +311,5 @@ isDraft: false
 seo:
   type: Seo
   metaDescription: Jetpath Ventures
+  metaTitle: Jetpath Ventures
 ---

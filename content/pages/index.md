@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Meet our trailblazers
+    subtitle: Meet the trailblazers
     items:
       - type: FeaturedItem
         title: Above Computing

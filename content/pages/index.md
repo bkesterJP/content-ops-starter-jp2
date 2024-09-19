@@ -16,11 +16,11 @@ sections:
       discovery customer acquisition, GTM strategy, starter capital, product
       launch and fundraising assistance. In short, we love engineers and the
       kinds of tech you see in SciFi movies—and we want to help you make a
-      business out of it. 
+      business out of it.
 
 
-      Our focus is on companies building cloud-native products that leverage
-      real-time data from machines, mobile apps, and proprietary data stores.
+      Our 'investment thesis focuses on cloud-native products that leverage
+      real-time data from machines, mobile apps, and disparate data stores.
     actions: []
     media:
       type: VideoBlock

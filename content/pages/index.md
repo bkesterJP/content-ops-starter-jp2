@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: rtzen AI
         tagline: ''
-        subtitle: AI Fintech
+        subtitle: AI Enterprise Fintech
         text: >
           rtzen is helping mid-market CFOs optimize treasury operations, by
           using AI to ingest complicated financial data streams and act

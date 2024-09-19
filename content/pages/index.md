@@ -273,9 +273,10 @@ sections:
       <div style="text-align: left">Our first pre-seed fund has been fully
       invested, and after the pandemic, our band decided to move in different
       directions. Our Managing Director is now developing Sitewire into a
-      standout company in the construction space. If you're interested in
-      joining that team of killer senior technologist in Rails, React, Mobile
-      and 3D visualization, feel free to reach out to [Bryan Kester on
+      standout company at the intersection of Construction and Real Estate
+      Finance . If you're interested in joining that team of killer senior
+      technologist in Rails, React, Mobile and 3D visualization, feel free to
+      reach out to [Bryan Kester on
       LinkedIn](https://www.linkedin.com/in/bryan-kester/).</div>
 
 

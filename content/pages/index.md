@@ -73,8 +73,8 @@ sections:
         text: >
           Above is a no code data management platform that abstracts away
           traditional database and logic layers so product managers can build
-          working prototype software in about a day, and quickly connect them to
-          a variety of systems and data sources. 
+          working prototype products in about a day, and quickly connect them to
+          a variety of systems and data sources.
 
 
           Massive product still in moonlight development.

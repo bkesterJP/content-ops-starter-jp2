@@ -275,8 +275,8 @@ sections:
       type: TitleBlock
     subtitle: We're no longer active
     text: >
-      <div style="text-align: left">Our pre-seed fund has been fully invested,
-      and after the pandemic, our band decided to move in different directions.
+      <div style="text-align: left">Our pre-seed fund has been fully invested.
+      And after the pandemic, our band decided to move in different directions.
       Our Managing Director is now developing Sitewire into a standout company
       at the intersection of Construction and Real Estate Finance. If you're
       interested in joining that team of killer senior technologist in Rails,

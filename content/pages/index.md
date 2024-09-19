@@ -298,7 +298,7 @@ sections:
         padding:
           - pl-5
         margin:
-          - ml-5
+          - ml-0
       subtitle:
         textAlign: left
 seo:

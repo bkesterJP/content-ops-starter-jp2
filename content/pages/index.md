@@ -264,7 +264,8 @@ sections:
       Rails, React or 3D Visualization Technologist, reach out to [Bryan Kester
       on LinkedIn](https://www.linkedin.com/in/bryan-kester/). If you want help
       from Bryan or any of our other principals, we encourage you to connect
-      with [Alchemist Accelerator](https://www.alchemistaccelerator.com/).
+      with [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where
+      we're all registered mentors.
     actions: []
     media:
       type: VideoBlock

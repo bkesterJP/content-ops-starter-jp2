@@ -292,7 +292,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col
+        flexDirection: col-reverse
         padding:
           - pt-16
           - pl-16

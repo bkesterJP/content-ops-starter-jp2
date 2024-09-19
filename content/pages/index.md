@@ -105,10 +105,9 @@ sections:
         title: "Edge\_ \_ Impulse"
         tagline: ''
         subtitle: AI and Machine Learning
-        text: >+
+        text: >
           Makes the process of building, deploying, and scaling embedded AI and
-          ML applications easier and faster than ever
-
+          ML applications easier and faster than ever. Raised $60M.
         image:
           type: ImageBlock
           url: /images/Edge.png

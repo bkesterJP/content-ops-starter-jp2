@@ -12,6 +12,9 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
+      THE FUTURE IS REAL TIME, INTELLIGENT AND AUTOMATIC
+
+
       We help technical founders define and execute a market innovation path via
       discovery customer acquisition, GTM strategy, starter capital, product
       launch and fundraising assistance. In short, we love engineers and the

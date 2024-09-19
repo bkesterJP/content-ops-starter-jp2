@@ -102,7 +102,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Edge Impulse
+        title: EdgeImpulse
         tagline: ''
         subtitle: AI and Machine Learning
         text: |

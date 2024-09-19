@@ -295,6 +295,13 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pl-10
+          - pr-10
+          - pb-10
+          - pt-10
+        margin:
+          - ml-0
       subtitle:
         textAlign: left
 seo:

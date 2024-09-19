@@ -54,12 +54,12 @@ sections:
         tagline: ''
         subtitle: Development Tools
         text: >
-          Above built a no code data management platform that abstracted away
-          traditional databases and logic layers so product managers could build
-          working prototype software in about a day. 
+          Above is a no code data management platform that abstracts away
+          traditional database and logic layers so product managers can build
+          working prototype software in about a day.
 
 
-          Acquired confidentially in 2021
+          In R\&D mode.
         image:
           type: ImageBlock
           url: /images/Above.png

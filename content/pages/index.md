@@ -148,9 +148,7 @@ sections:
           autonomously to generate income.
 
 
-
-
-          Current Series seed with $4M raised.
+          Current Series Seed with $4M raised.
         image:
           type: ImageBlock
           url: /images/rtzen.png

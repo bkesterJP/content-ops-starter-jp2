@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Meet our trailblazers
+    subtitle: Meet the trailblazers
     items:
       - type: FeaturedItem
         title: Above Computing
@@ -251,19 +251,19 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: We're no longer investing
+      text: No longer active
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: ''
     text: >
-      Our first small fund has been fully invested, and after the pandemic, our
-      band decided to move in different directions. Our Managing Director is now
-      developing Sitewire into a standout company in the construction space. If
-      you're a senior technologist in Rails, React, or 3D visualization, feel
-      free to reach out to [Bryan Kester on
-      LinkedIn](https://www.linkedin.com/in/bryan-kester/).
+      Our first pre-seed fund has been fully invested, and after the pandemic,
+      our band decided to move in different directions. Our Managing Director is
+      now developing Sitewire into a standout company in the construction space.
+      If you're interested in joining that team of killer senior technologist in
+      Rails, React, Mobile and 3D visualization, feel free to reach out to
+      [Bryan Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
 
 
       For mentorship or acceleration support, we suggest connecting with

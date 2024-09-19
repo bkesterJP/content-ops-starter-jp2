@@ -143,6 +143,8 @@ sections:
           autonomously to generate income.
 
 
+
+
           Current Series seed with $4M raised.
         image:
           type: ImageBlock

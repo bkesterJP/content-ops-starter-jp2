@@ -306,11 +306,11 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
-  type: Seo
 type: PageLayout
 isDraft: false
+seo:
+  type: Seo
+  metaDescription: Jetpath Ventures
+  metaTitle: Jetpath Ventures
+  socialImage: /images/jetpath.png
 ---

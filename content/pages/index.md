@@ -107,7 +107,10 @@ sections:
         subtitle: AI and Machine Learning
         text: >
           Makes the process of building, deploying, and scaling embedded AI and
-          ML applications easier and faster than ever. Raised $60M.
+          ML applications easier and faster than ever.
+
+
+          Raised $60M.
         image:
           type: ImageBlock
           url: /images/Edge.png

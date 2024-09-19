@@ -76,7 +76,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Concrete Sensors
         tagline: ''
         subtitle: This is the item subtitle
         text: |

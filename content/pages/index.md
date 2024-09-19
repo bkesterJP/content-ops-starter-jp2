@@ -251,7 +251,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: We're no longer investing
+      text: No longer active
       color: text-dark
       styles:
         self:

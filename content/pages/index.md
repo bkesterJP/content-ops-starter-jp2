@@ -78,7 +78,7 @@ sections:
       - type: FeaturedItem
         title: Concrete Sensors
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: IoT
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

@@ -113,7 +113,7 @@ sections:
           Currently Series B with $53M raised.
         image:
           type: ImageBlock
-          url: /images/Edge.png
+          url: /images/EdgeImpulse.png
           altText: Placeholder text
           styles:
             self:

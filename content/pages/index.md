@@ -132,7 +132,7 @@ sections:
       - type: FeaturedItem
         title: rtZen AI
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Fintech
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

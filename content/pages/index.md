@@ -61,7 +61,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Companies
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center

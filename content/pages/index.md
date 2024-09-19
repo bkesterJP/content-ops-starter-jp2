@@ -126,7 +126,7 @@ sections:
       - type: FeaturedItem
         title: "Edge\_ \_ Impulse"
         tagline: ''
-        subtitle: AI IoT
+        subtitle: AI for IoT
         text: >
           Makes the process of building, deploying, and scaling embedded AI and
           ML applications easier and faster than ever. Edge Impulse may be

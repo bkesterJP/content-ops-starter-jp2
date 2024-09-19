@@ -275,7 +275,7 @@ sections:
       directions. Our Managing Director is now developing Sitewire into a
       standout company at the intersection of Construction and Real Estate
       Finance . If you're interested in joining that team of killer senior
-      technologist in Rails, React, Mobile and 3D visualization, feel free to
+      technologist in Rails, React, Mobile and 3D Visualization, feel free to
       reach out to [Bryan Kester on
       LinkedIn](https://www.linkedin.com/in/bryan-kester/).</div>
 

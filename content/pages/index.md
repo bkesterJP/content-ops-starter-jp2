@@ -108,7 +108,7 @@ sections:
       - type: FeaturedItem
         title: "Edge\_ \_ Impulse"
         tagline: ''
-        subtitle: AI and Machine Learning
+        subtitle: AI IoT
         text: >
           Makes the process of building, deploying, and scaling embedded AI and
           ML applications easier and faster than ever.

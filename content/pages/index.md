@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'The future is real time, intelligent and automatic'
+      text: Find your heading with Jetpath
       color: text-dark
       styles:
         self:

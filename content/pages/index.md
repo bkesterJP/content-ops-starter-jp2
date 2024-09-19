@@ -55,7 +55,8 @@ sections:
         subtitle: Development Tools
         text: >
           Above built a no code data management platform that abstracted away
-          traditional databases and logic layers.
+          traditional databases and logic layers so product managers could build
+          working prototype software in about a day. 
 
 
           Acquired confidentially in 2021

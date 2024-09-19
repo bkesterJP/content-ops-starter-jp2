@@ -295,6 +295,8 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pl-5
       subtitle:
         textAlign: left
 seo:

@@ -297,6 +297,7 @@ sections:
         justifyContent: center
         padding:
           - pl-10
+          - pr-10
         margin:
           - ml-0
       subtitle:

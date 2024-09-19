@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A strong track record of de-risking the earliest stages
+    subtitle: Meet our trailblazers
     items:
       - type: FeaturedItem
         title: Above Computing

@@ -270,7 +270,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Starter Capital and GTM Help
+    subtitle: We're no longer active
     text: >+
       We help technical founders define a market innovation path and launch with
       advisory services, starter capital and fundraising assistance.

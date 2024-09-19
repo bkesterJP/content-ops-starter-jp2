@@ -11,16 +11,14 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
-      We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance.
+    text: >
+      We help technical founders define a market innovation path with discovery
+      customer acquisition, GTM strategy, starter capital, product launch and
+      fundraising assistance.
 
 
       Our focus is on companies building cloud-native products that leverage
       real-time data from machines, mobile apps, and proprietary data stores.
-
-
-
     actions: []
     media:
       type: VideoBlock

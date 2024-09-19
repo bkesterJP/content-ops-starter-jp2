@@ -204,8 +204,8 @@ sections:
         text: >
           Vorga was a promising cloud and hardware offering to help cannabis
           producers precisely measure THC and CDB levels. It was a bet on
-          regulation in various state pipelins but the company got caught in the
-          Cannabis market meltdown.
+          regulations forming across various states. but the company got caught
+          in the Cannabis market meltdown.
 
 
           Gone.  ¯\\\_(ツ)\_/¯

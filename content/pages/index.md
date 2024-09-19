@@ -259,16 +259,16 @@ sections:
     subtitle: ''
     text: >
       Our first small fund has been fully invested, and after the pandemic, our
-      small band decided to move in different directions. Our Managing Director
-      is now dedicated to developing Sitewire into a standout company in the
-      construction space.If you're a senior technologist specializing in Rails,
-      React, or 3D visualization, feel free to reach out to [Bryan Kester on
+      band decided to move in different directions. Our Managing Director is now
+      developing Sitewire into a standout company in the construction space. If
+      you're a senior technologist in Rails, React, or 3D visualization, feel
+      free to reach out to [Bryan Kester on
       LinkedIn](https://www.linkedin.com/in/bryan-kester/).
 
 
       For mentorship or acceleration support, we suggest connecting with
       [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where some
-      of us still serve as angels and advisors.
+      of us are angels and advisors.
     actions: []
     media:
       type: VideoBlock

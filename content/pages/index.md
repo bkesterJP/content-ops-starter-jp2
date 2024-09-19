@@ -110,7 +110,7 @@ sections:
           ML applications easier and faster than ever.
 
 
-          Raised $60M.
+          Raised $53M so far.
         image:
           type: ImageBlock
           url: /images/Edge.png

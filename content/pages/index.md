@@ -20,7 +20,8 @@ sections:
 
 
       Our investment thesis focuses on cloud-native products that leverage
-      real-time data from machines, mobile apps, and disparate data stores.
+      real-time data from remote machines, mobile apps, and disparate data
+      stores.
     actions: []
     media:
       type: VideoBlock

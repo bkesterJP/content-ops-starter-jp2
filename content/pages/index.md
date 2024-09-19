@@ -162,8 +162,14 @@ sections:
         title: Sitewire
         tagline: ''
         subtitle: Construction Fintech
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Sitewire is a simple yet powerful construction finance platform that
+          helps lenders and institutional asset managers track project progress,
+          automate work verification, and speed up payments.
+
+
+          Currently Series Seed with $3M raised. 
+
         image:
           type: ImageBlock
           url: /images/sitewire.png

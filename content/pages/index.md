@@ -38,7 +38,7 @@ sections:
             - pb-10
             - pl-2
             - pr-2
-          borderColor: border-neutral
+          borderColor: border-dark
           borderStyle: dotted
           borderWidth: 1
           borderRadius: small

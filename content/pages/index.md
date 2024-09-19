@@ -59,7 +59,7 @@ sections:
           working prototype software in about a day.
 
 
-          In R\&D mode.
+          Huge product still in development.
         image:
           type: ImageBlock
           url: /images/Above.png
@@ -229,7 +229,7 @@ sections:
             flexDirection: row
     actions: []
     badge:
-      label: WE DERISK THE EARLIEST STAGES
+      label: ''
       color: text-primary
       styles:
         self:
@@ -242,7 +242,7 @@ sections:
       self:
         padding:
           - pb-16
-          - pt-16
+          - pt-12
           - pl-16
           - pr-16
         justifyContent: center

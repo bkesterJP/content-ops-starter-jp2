@@ -53,8 +53,10 @@ sections:
         title: Above Computing
         tagline: ''
         subtitle: Development Tools
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Above built a no code data management platform that abstracted away
+          traditional databases and logic layers. It was acquired confidentially
+          in 2021 
         image:
           type: ImageBlock
           url: /images/Above.png

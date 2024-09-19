@@ -296,7 +296,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pl-5
+          - pl-10
         margin:
           - ml-0
       subtitle:

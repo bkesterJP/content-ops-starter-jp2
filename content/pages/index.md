@@ -128,7 +128,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: This is a badge
+      label: TRAILBLAZING
       color: text-primary
       styles:
         self:

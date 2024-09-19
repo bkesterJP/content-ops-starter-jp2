@@ -59,7 +59,7 @@ sections:
           working prototype software in about a day.
 
 
-          In R\&D mode.
+          Huge product still in development.
         image:
           type: ImageBlock
           url: /images/Above.png

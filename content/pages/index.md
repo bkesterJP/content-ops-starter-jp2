@@ -282,7 +282,7 @@ sections:
 
       For mentorship or acceleration support, we suggest connecting with
       [Alchemist Accelerator](https://www.alchemistaccelerator.com), where some
-      of us continue to be angels and advisors.
+      of us serve as angels and advisors.
     actions: []
     badge:
       label: ''

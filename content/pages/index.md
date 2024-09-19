@@ -192,8 +192,11 @@ sections:
         title: Vorga
         tagline: ''
         subtitle: IoT
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Vorga was a promising cloud and hardware offering to help cannabis
+          producers precisely measure THC and CDB levels. The company got caught
+          in California's lack of enforcement of black and grey market cannabis
+          and had to unfortunately shut down.  
         image:
           type: ImageBlock
           url: /images/vorga.png

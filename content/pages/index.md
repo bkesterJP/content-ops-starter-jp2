@@ -15,8 +15,9 @@ sections:
       We help technical founders define and execute a market innovation path via
       discovery customer acquisition, GTM strategy, starter capital, product
       launch and fundraising assistance. In short, we love engineers and the
-      kinds of tech you see in SciFi movies—and we want to help you launch a
-      real business that stands the test of time and unforeseen economic shifts.
+      kinds of tech you see in SciFi movies. We're here to help you launch a
+      real business that stands the test of time, and unforeseen economic
+      shifts.
 
 
       Our investment thesis focuses on cloud-native products that leverage

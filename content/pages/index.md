@@ -136,7 +136,7 @@ sections:
         text: >
           rtzen is helping mid-market CFOs with complex treasury, AP and AR
           operations simplify their life. They utilize AI to ingest and analyze
-          cashflow data streams and act on the data.
+          cash data and autonomously make treasury decisions. 
 
 
           Current Series seed with $4M raised.

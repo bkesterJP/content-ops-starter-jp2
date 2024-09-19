@@ -59,7 +59,7 @@ sections:
           working prototype software in about a day.
 
 
-          Huge product still in development.
+          Massive product still in moonlight development.
         image:
           type: ImageBlock
           url: /images/Above.png

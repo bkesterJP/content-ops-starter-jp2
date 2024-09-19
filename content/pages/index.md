@@ -42,6 +42,8 @@ sections:
           borderStyle: solid
           borderWidth: 8
           borderRadius: small
+          margin:
+            - mr-3
     colors: bg-light-fg-dark
     styles:
       self:

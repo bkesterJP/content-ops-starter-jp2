@@ -130,7 +130,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: rtZen AI
+        title: rtzen AI
         tagline: This is the tagline
         subtitle: Fintech
         text: >

@@ -310,4 +310,5 @@ type: PageLayout
 isDraft: false
 seo:
   type: Seo
+  metaDescription: Jetpath Ventures
 ---

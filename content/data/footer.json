@@ -11,12 +11,6 @@
             "url": "https://www.linkedin.com/company/jetpath",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "mailto:info@jetpath.co",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [],

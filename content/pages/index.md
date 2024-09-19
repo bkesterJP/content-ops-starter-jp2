@@ -39,6 +39,62 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: No longer active
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      Our first pre-seed fund has been fully invested, and after the pandemic,
+      our band decided to move in different directions. Our Managing Director is
+      now developing Sitewire into a standout company in the construction space.
+      If you're interested in joining that team of killer senior technologist in
+      Rails, React, Mobile and 3D visualization, feel free to reach out to
+      [Bryan Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
+
+
+      For mentorship or acceleration support, we suggest connecting with
+      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where some
+      of us are angels and advisors.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+        padding:
+          - pl-10
+          - pr-10
+          - pb-10
+          - pt-10
+        margin:
+          - ml-0
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Companies
@@ -248,62 +304,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: No longer active
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: >
-      Our first pre-seed fund has been fully invested, and after the pandemic,
-      our band decided to move in different directions. Our Managing Director is
-      now developing Sitewire into a standout company in the construction space.
-      If you're interested in joining that team of killer senior technologist in
-      Rails, React, Mobile and 3D visualization, feel free to reach out to
-      [Bryan Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
-
-
-      For mentorship or acceleration support, we suggest connecting with
-      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where some
-      of us are angels and advisors.
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        padding:
-          - pl-10
-          - pr-10
-          - pb-10
-          - pt-10
-        margin:
-          - ml-0
-      subtitle:
-        textAlign: left
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

@@ -297,6 +297,8 @@ sections:
         justifyContent: center
         padding:
           - pl-5
+        margin:
+          - ml-5
       subtitle:
         textAlign: left
 seo:

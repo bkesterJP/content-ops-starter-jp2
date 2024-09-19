@@ -229,7 +229,7 @@ sections:
             flexDirection: row
     actions: []
     badge:
-      label: WE DERISK THE EARLIEST STAGES
+      label: ''
       color: text-primary
       styles:
         self:

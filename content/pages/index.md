@@ -39,7 +39,7 @@ sections:
             - pl-2
             - pr-2
           borderColor: border-dark
-          borderStyle: dotted
+          borderStyle: solid
           borderWidth: 8
           borderRadius: small
     colors: bg-light-fg-dark

@@ -132,9 +132,9 @@ sections:
         subtitle: AI for IoT
         text: >
           Makes the process of building, deploying, and scaling embedded AI and
-          ML applications easier and faster than ever. Edge Impulse may be
-          running on many of the consumer and commercial products you use every
-          day.
+          ML applications easier and faster than ever. Edge Impulse may already
+          be running on many of the consumer and commercial products you already
+          use.
 
 
           Currently Series B with $53M raised.

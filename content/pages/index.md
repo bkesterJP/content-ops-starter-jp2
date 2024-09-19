@@ -52,7 +52,7 @@ sections:
       - type: FeaturedItem
         title: Above Computing
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Development Tools
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

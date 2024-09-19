@@ -308,4 +308,6 @@ sections:
         textAlign: center
 type: PageLayout
 isDraft: false
+seo:
+  type: Seo
 ---

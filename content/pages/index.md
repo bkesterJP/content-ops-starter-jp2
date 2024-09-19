@@ -56,43 +56,6 @@ sections:
           - ml-0
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      text: 'The future is real time, intelligent and automatic'
-      color: text-dark
-      type: TitleBlock
-    subtitle: Starter Capital and GTM Help
-    text: >+
-      We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance.
-
-
-      Our focus is on companies building cloud-native products that leverage
-      real-time data from machines, mobile apps, and proprietary data stores.
-
-
-
-    actions: []
-    media:
-      url: /images/main-hero.svg
-      altText: Making deep technology useful and accessible to all
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: DEEP STRATEGY FOR DEEP TECHNOLOGIES
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Companies
@@ -302,6 +265,43 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: 'The future is real time, intelligent and automatic'
+      color: text-dark
+      type: TitleBlock
+    subtitle: Starter Capital and GTM Help
+    text: >+
+      We help technical founders define a market innovation path and launch with
+      advisory services, starter capital and fundraising assistance.
+
+
+      Our focus is on companies building cloud-native products that leverage
+      real-time data from machines, mobile apps, and proprietary data stores.
+
+
+
+    actions: []
+    media:
+      url: /images/main-hero.svg
+      altText: Making deep technology useful and accessible to all
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: DEEP STRATEGY FOR DEEP TECHNOLOGIES
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

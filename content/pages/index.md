@@ -19,7 +19,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: BRINGING DEEP TECH TO MARKET
       color: text-primary
       type: Badge
     elementId: ''

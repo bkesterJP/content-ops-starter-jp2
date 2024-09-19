@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Making deep technology useful and accessible to all
       elementId: ''
       type: ImageBlock
     badge:

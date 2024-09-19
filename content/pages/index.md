@@ -41,7 +41,7 @@ sections:
           borderColor: border-neutral
           borderStyle: dotted
           borderWidth: 1
-          borderRadius: large
+          borderRadius: small
     colors: bg-light-fg-dark
     styles:
       self:

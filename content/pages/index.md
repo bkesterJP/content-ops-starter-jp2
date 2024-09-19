@@ -80,8 +80,8 @@ sections:
         tagline: ''
         subtitle: IoT
         text: >
-          SaaS & wireless sensors to know when concrete is cured. Used by 20 of
-          the largest global general contractors.
+          SaaS & wireless sensors to know when concrete is cured. Adopted by
+          scores of the world's largest general contractors.
 
 
           Acquired by HILTI.

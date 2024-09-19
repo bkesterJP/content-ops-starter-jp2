@@ -283,7 +283,7 @@ sections:
 
     actions: []
     badge:
-      label: DEEP STRATEGY FOR DEEP TECHNOLOGIES
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''

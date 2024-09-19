@@ -19,7 +19,7 @@ sections:
       business out of it.
 
 
-      Our 'investment thesis focuses on cloud-native products that leverage
+      Our investment thesis focuses on cloud-native products that leverage
       real-time data from machines, mobile apps, and disparate data stores.
     actions: []
     media:

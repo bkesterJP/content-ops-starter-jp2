@@ -262,10 +262,10 @@ sections:
       part ways after the Pandemic. Our MD is concentrating on getting Sitewire
       built out into an iconic company in Construction. If you're a senior
       Rails, React or 3D Visualization Technologist, reach out to [Bryan Kester
-      on LinkedIn](https://www.linkedin.com/in/bryan-kester/). If you want help
-      from Bryan or any of our other principals, we encourage you to connect
-      with [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where
-      we're all registered mentors.
+      on LinkedIn](https://www.linkedin.com/in/bryan-kester/). If you need
+      acceleration and mentoring help, we encourage you to connect with
+      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), which
+      we're still involved to varying degrees with. 
     actions: []
     media:
       type: VideoBlock

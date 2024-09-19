@@ -66,7 +66,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'THE FUTURE IS REAL TIME, INTELLIGENT AND AUTOMATIC'
+    subtitle: 'The future is real time, intelligent and automatic'
     items:
       - type: FeaturedItem
         title: Above Computing

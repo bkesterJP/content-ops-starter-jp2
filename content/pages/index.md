@@ -34,14 +34,16 @@ sections:
       styles:
         self:
           padding:
-            - pt-10
+            - pt-14
             - pb-10
             - pl-2
             - pr-2
           borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+          borderStyle: none
+          borderWidth: 0
+          borderRadius: small
+          margin:
+            - mr-0
     colors: bg-light-fg-dark
     styles:
       self:

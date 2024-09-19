@@ -79,10 +79,10 @@ sections:
         title: Concrete Sensors
         tagline: ''
         subtitle: IoT
-        text: >+
-          SaaS & wireless sensors to know when concrete is cured (acquired by
-          HILTI)
-
+        text: >
+          SaaS & wireless sensors to know when concrete is cured. Used by 20 of
+          the largest global general contractors and ultimately acquired by
+          HILTI.
         image:
           type: ImageBlock
           url: /images/CS.png

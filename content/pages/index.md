@@ -267,7 +267,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: 'The future is real time, intelligent and automatic'
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Starter Capital and GTM Help

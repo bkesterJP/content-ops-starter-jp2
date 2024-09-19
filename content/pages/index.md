@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Find your heading with Jetpath
+      text: Set your heading with Jetpath
       color: text-dark
       styles:
         self:

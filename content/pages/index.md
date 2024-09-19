@@ -43,7 +43,7 @@ sections:
           borderWidth: 8
           borderRadius: small
           margin:
-            - mr-3
+            - mr-0
     colors: bg-light-fg-dark
     styles:
       self:

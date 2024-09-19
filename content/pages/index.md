@@ -167,7 +167,7 @@ sections:
       - type: FeaturedItem
         title: Sitewire
         tagline: ''
-        subtitle: Construction Fintech
+        subtitle: AI Construction Fintech
         text: >+
           Sitewire is a simple yet powerful construction finance platform that
           helps lenders and institutional asset managers track project progress,

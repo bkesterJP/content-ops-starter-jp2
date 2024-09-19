@@ -267,8 +267,8 @@ sections:
 
 
       For mentorship or acceleration support, we suggest connecting with
-      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where we
-      continue to stay engaged at various levels.
+      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where some
+      of us still serve as angels and mentors.
     actions: []
     media:
       type: VideoBlock

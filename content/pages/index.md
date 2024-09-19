@@ -105,8 +105,10 @@ sections:
         title: "Edge\_ \_ Impulse"
         tagline: ''
         subtitle: AI and Machine Learning
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Makes the process of building, deploying, and scaling embedded AI and
+          ML applications easier and faster than ever
+
         image:
           type: ImageBlock
           url: /images/Edge.png

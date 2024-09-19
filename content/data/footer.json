@@ -5,21 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "Accelerating Innovation\n",
-    "secondaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "LinkedIn link",

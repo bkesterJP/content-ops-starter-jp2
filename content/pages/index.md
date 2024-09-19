@@ -285,11 +285,16 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      We help technical founders define a market innovation path and launch with
+      advisory services, starter capital and fundraising assistance.
+
+
+      Our focus is on companies building cloud-native products that leverage
+      real-time data from machines, mobile apps, and proprietary data stores.
+
+
+
     actions: []
     media:
       title: Title of the video

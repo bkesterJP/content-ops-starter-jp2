@@ -262,8 +262,8 @@ sections:
       our band decided to move in different directions. Our Managing Director is
       now developing Sitewire into a standout company in the construction space.
       If you're interested in joining that team of killer senior technologist in
-      Rails, React, or 3D visualization, feel free to reach out to [Bryan Kester
-      on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
+      Rails, React, Mobile and 3D visualization, feel free to reach out to
+      [Bryan Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
 
 
       For mentorship or acceleration support, we suggest connecting with

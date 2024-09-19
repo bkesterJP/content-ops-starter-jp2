@@ -11,18 +11,16 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >
-      Our first pre-seed fund has been fully invested, and after the pandemic,
-      our band decided to move in different directions. Our Managing Director is
-      now developing Sitewire into a standout company in the construction space.
-      If you're interested in joining that team of killer senior technologist in
-      Rails, React, Mobile and 3D visualization, feel free to reach out to
-      [Bryan Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
+    text: >+
+      We help technical founders define a market innovation path and launch with
+      advisory services, starter capital and fundraising assistance.
 
 
-      For mentorship or acceleration support, we suggest connecting with
-      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where some
-      of us are angels and advisors.
+      Our focus is on companies building cloud-native products that leverage
+      real-time data from machines, mobile apps, and proprietary data stores.
+
+
+
     actions: []
     media:
       type: VideoBlock

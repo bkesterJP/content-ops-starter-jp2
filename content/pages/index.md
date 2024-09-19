@@ -7,7 +7,7 @@ sections:
       text: 'The future is real time, intelligent and automatic'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Starter Capital and GTM Help
     text: >+
       We help technical founders define a market innovation path and launch with
       advisory services, starter capital and fundraising assistance.

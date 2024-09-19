@@ -4,41 +4,56 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
       text: 'The future is real time, intelligent and automatic'
       color: text-dark
-      type: TitleBlock
-    subtitle: Starter Capital and GTM Help
-    text: >+
-      We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance.
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      We help technical founders define a market innovation path with discovery
+      customer acquisition, GTM strategy, starter capital, product launch and
+      fundraising assistance.
 
 
       Our focus is on companies building cloud-native products that leverage
       real-time data from machines, mobile apps, and proprietary data stores.
-
-
-
     actions: []
     media:
-      url: /images/main-hero.svg
-      altText: Making deep technology useful and accessible to all
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: DEEP STRATEGY FOR DEEP TECHNOLOGIES
-      color: text-primary
-      type: Badge
-    elementId: ''
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
         flexDirection: row
+        justifyContent: center
         padding:
-          - pt-16
-          - pl-16
+          - pl-10
+          - pr-10
           - pb-16
-          - pr-16
+          - pt-16
+        margin:
+          - ml-0
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Companies
@@ -111,7 +126,7 @@ sections:
       - type: FeaturedItem
         title: "Edge\_ \_ Impulse"
         tagline: ''
-        subtitle: AI IoT
+        subtitle: AI for IoT
         text: >
           Makes the process of building, deploying, and scaling embedded AI and
           ML applications easier and faster than ever. Edge Impulse may be
@@ -144,8 +159,8 @@ sections:
         subtitle: AI Enterprise Fintech
         text: >
           rtzen is helping mid-market CFOs optimize treasury operations, by
-          using AI to ingest complicated financial data streams and act
-          autonomously to generate income.
+          using AI to ingest complicated, disparate financial data streams and
+          act autonomously to generate income.
 
 
           Current Series Seed with $4M raised.
@@ -250,60 +265,39 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: No longer active
+      text: ''
       color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
+      type: TitleBlock
+    subtitle: We're no longer active
     text: >
-      Our first pre-seed fund has been fully invested, and after the pandemic,
-      our band decided to move in different directions. Our Managing Director is
-      now developing Sitewire into a standout company in the construction space.
-      If you're interested in joining that team of killer senior technologist in
-      Rails, React, Mobile and 3D visualization, feel free to reach out to
-      [Bryan Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).
+      <div style="text-align: left">Our pre-seed fund has been fully invested,
+      and after the pandemic, our band decided to move in different directions.
+      Our Managing Director is now developing Sitewire into a standout company
+      at the intersection of Construction and Real Estate Finance. If you're
+      interested in joining that team of killer senior technologist in Rails,
+      React, Mobile and 3D Visualization, feel free to reach out to [Bryan
+      Kester on LinkedIn](https://www.linkedin.com/in/bryan-kester/).</div>
 
 
       For mentorship or acceleration support, we suggest connecting with
-      [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where some
-      of us are angels and advisors.
+      [Alchemist Accelerator](https://www.alchemistaccelerator.com), where some
+      of us serve as angels and advisors.
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
+        alignItems: center
         flexDirection: row
-        justifyContent: center
         padding:
-          - pl-10
-          - pr-10
-          - pb-10
-          - pt-10
-        margin:
-          - ml-0
-      subtitle:
-        textAlign: left
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

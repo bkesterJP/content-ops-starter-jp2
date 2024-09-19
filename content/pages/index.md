@@ -55,8 +55,10 @@ sections:
         subtitle: Development Tools
         text: >
           Above built a no code data management platform that abstracted away
-          traditional databases and logic layers. It was acquired confidentially
-          in 2021 
+          traditional databases and logic layers.
+
+
+          Acquired confidentially in 2021
         image:
           type: ImageBlock
           url: /images/Above.png

@@ -219,7 +219,7 @@ sections:
             flexDirection: row
     actions: []
     badge:
-      label: TRAILBLAZING
+      label: WE DERISK THE EARLIEST STAGES
       color: text-primary
       styles:
         self:

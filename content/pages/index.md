@@ -79,8 +79,10 @@ sections:
         title: Concrete Sensors
         tagline: ''
         subtitle: IoT
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          SaaS & wireless sensors to know when concrete is cured (acquired by
+          HILTI)
+
         image:
           type: ImageBlock
           url: /images/CS.png

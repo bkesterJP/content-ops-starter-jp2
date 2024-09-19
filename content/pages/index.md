@@ -133,8 +133,15 @@ sections:
         title: rtZen AI
         tagline: This is the tagline
         subtitle: Fintech
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          rtzen is helping mid-market CFOs with complex treasury, AP and AR
+          operations simplify their life. The company utilizes AI to ingest and
+          analyze cashflow data streams and automates daily treasury operations
+          to maximize cashflow and profitability.
+
+
+          Current Series seed with $4M raised.
+
         image:
           type: ImageBlock
           url: /images/rtzen.png

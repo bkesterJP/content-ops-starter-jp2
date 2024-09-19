@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'The future isreal time, intelligent and automatic'
+      text: 'The future is real time, intelligent and automatic'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

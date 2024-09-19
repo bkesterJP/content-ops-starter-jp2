@@ -54,12 +54,12 @@ sections:
         tagline: ''
         subtitle: Development Tools
         text: >
-          Above built a no code data management platform that abstracted away
-          traditional databases and logic layers so product managers could build
-          working prototype software in about a day. 
+          Above is a no code data management platform that abstracts away
+          traditional database and logic layers so product managers can build
+          working prototype software in about a day.
 
 
-          Acquired confidentially in 2021
+          In R\&D mode.
         image:
           type: ImageBlock
           url: /images/Above.png
@@ -141,7 +141,7 @@ sections:
       - type: FeaturedItem
         title: rtzen AI
         tagline: ''
-        subtitle: AI Fintech
+        subtitle: AI Enterprise Fintech
         text: >
           rtzen is helping mid-market CFOs optimize treasury operations, by
           using AI to ingest complicated financial data streams and act
@@ -203,9 +203,12 @@ sections:
         subtitle: IoT
         text: >
           Vorga was a promising cloud and hardware offering to help cannabis
-          producers precisely measure THC and CDB levels. The company got caught
-          in the industry meltdown due to Cannabis market collapse and
-          California's lack of control over the illegal production market.  
+          producers precisely measure THC and CDB levels. It was a bet on
+          regulations that were gestating across various states, but the company
+          got caught in the Cannabis market meltdown.
+
+
+          Gone.  ¯\\\_(ツ)\_/¯
         image:
           type: ImageBlock
           url: /images/vorga.png
@@ -245,10 +248,57 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: We're no longer investing
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      Our first small fund is fully deployed and our party of five decided to
+      part ways after the Pandemic. Our MD is concentrating on getting Sitewire
+      built out into an iconic company in Construction. If you're a senior
+      Rails, React or 3D Visualization Technologist, reach out to [Bryan Kester
+      on LinkedIn](https://www.linkedin.com/in/bryan-kester/). If you want help
+      from Bryan or any of our other principals, we encourage you to connect
+      with [Alchemist Accelerator](https://www.alchemistaccelerator.com/), where
+      we're all registered mentors.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: false
 ---

@@ -5,20 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Deep strategy for deep technologies\n",
-    "socialLinks": [
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/jetpath",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "mailto:info@jetpath.co",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "(c) 2021 Jetpath LLC\n",
     "colors": "bg-dark-fg-light",

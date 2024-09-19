@@ -48,7 +48,7 @@ sections:
         padding:
           - pl-10
           - pr-10
-          - pb-10
+          - pb-16
           - pt-16
         margin:
           - ml-0

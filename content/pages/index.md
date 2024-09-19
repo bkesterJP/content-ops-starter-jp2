@@ -195,8 +195,8 @@ sections:
         text: >
           Vorga was a promising cloud and hardware offering to help cannabis
           producers precisely measure THC and CDB levels. The company got caught
-          in California's lack of enforcement of black and grey market cannabis
-          and had to unfortunately shut down.  
+          in the industry meltdown due to Cannabis market collapse and
+          California's lack of control over the illegal production market.  
         image:
           type: ImageBlock
           url: /images/vorga.png

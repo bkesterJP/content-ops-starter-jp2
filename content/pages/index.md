@@ -35,7 +35,7 @@ sections:
         self:
           padding:
             - pt-10
-            - pb-1
+            - pb-10
             - pl-2
             - pr-2
           borderColor: border-dark

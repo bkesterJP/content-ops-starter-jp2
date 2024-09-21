@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Set your heading with Jetpath
+      text: Support for disruptors
       color: text-dark
       styles:
         self:
@@ -13,11 +13,8 @@ sections:
     subtitle: ''
     text: >
       We help technical founders define and execute a market innovation path via
-      discovery customer acquisition, GTM strategy, starter capital, product
-      launch and fundraising assistance. In short, we love engineers and the
-      kinds of tech you see in SciFi movies. We're here to help you launch a
-      real business that stands the test of time, and unforeseen economic
-      shifts.
+      initial customer acquisition, GTM strategy, starter capital, product
+      launch and fundraising assistance. We love engineers building hard things.
 
 
       Our investment thesis focuses on cloud-native products that leverage
@@ -51,8 +48,8 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pl-10
-          - pr-10
+          - pl-12
+          - pr-12
           - pb-16
           - pt-16
         margin:

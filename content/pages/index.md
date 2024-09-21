@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Set your heading with Jetpath
+      text: Venture Acceleration
       color: text-dark
       styles:
         self:

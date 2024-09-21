@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     text: >
       We help technical founders define and execute a market innovation path via
-      discovery customer acquisition, GTM strategy, starter capital, product
+      initial customer acquisition, GTM strategy, starter capital, product
       launch and fundraising assistance. We love engineers building hard things.
 
 

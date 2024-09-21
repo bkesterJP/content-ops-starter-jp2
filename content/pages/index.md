@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Venture Acceleration
+      text: Support for disruptors
       color: text-dark
       styles:
         self:

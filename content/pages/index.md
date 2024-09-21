@@ -52,7 +52,7 @@ sections:
         justifyContent: center
         padding:
           - pl-12
-          - pr-10
+          - pr-12
           - pb-16
           - pt-16
         margin:

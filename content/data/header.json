@@ -16,5 +16,12 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
-    "title": ""
+    "title": "",
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-16"
+            ]
+        }
+    }
 }

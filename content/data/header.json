@@ -20,7 +20,9 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-14"
+                "pl-14",
+                "pt-3",
+                "pb-3"
             ]
         }
     }

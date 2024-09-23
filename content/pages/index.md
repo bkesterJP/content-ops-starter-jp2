@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Support for digital disruptors
+      text: Hands-on help for digital disruptors
       color: text-light
       styles:
         self:

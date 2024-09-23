@@ -14,8 +14,10 @@ sections:
     text: >
       Jetpath Ventures helps technical founders define and execute a market
       innovation path via initial customer acquisition, GTM strategy, starter
-      capital, product launch and fundraising assistance. We love engineers
-      building hard things.
+      capital, product launch and fundraising assistance.
+
+
+      **We love engineers building hard things.**
 
 
       Our investment thesis focuses on cloud-native products that leverage
@@ -74,7 +76,7 @@ sections:
         text: >
           Above is a no code data management platform that abstracts away
           traditional database and logic layers so product managers can build
-          working prototype products in about a day, and quickly connect them to
+          working prototype products in about a day—and quickly connect them to
           a variety of systems and data sources.
 
 

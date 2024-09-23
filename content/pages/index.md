@@ -166,9 +166,9 @@ sections:
         tagline: ''
         subtitle: AI Enterprise Fintech
         text: >
-          rtzen is helping mid-market CFOs optimize treasury operations, by
-          using AI to ingest complicated, disparate financial data streams and
-          act autonomously to generate income.
+          Rtzen assists mid-market CFOs in optimizing treasury operations by
+          utilizing AI to process complex, disparate financial data streams and
+          autonomously generate income.
 
 
           Current Series Seed with $4M raised.

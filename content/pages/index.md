@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Support for disruptors
-      color: text-dark
+      text: Hands-on help for digital disruptors
+      color: text-light
       styles:
         self:
           textAlign: left
@@ -42,7 +42,7 @@ sections:
           borderRadius: small
           margin:
             - mr-0
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row

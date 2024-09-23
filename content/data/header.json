@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/jetpathlogo3.png",
+        "url": "/images/jetpath-white.png",
         "altText": "Jetpath Ventures",
         "styles": {
             "self": {
@@ -14,7 +14,7 @@
     "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "",
     "styles": {

@@ -59,7 +59,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Companies
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: center

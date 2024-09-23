@@ -73,13 +73,14 @@ sections:
         tagline: ''
         subtitle: Development Tools
         text: >
-          Above is a no code data management platform that abstracts away
-          traditional database and logic layers so product managers can build
-          working prototype products in about a day—and quickly connect them to
-          a variety of systems and data sources.
+          Above is a no-code data management solution that simplifies database
+          and logic layers, enabling product managers to build functional
+          prototypes in a day and easily integrate them with various systems and
+          data sources.
 
 
-          Massive product still in moonlight development.
+
+          In development.
         image:
           type: ImageBlock
           url: /images/Above.png
@@ -103,10 +104,12 @@ sections:
         tagline: ''
         subtitle: IoT
         text: >
-          SaaS & wireless sensors to know when concrete is cured and work can
-          continue, saving construction teams weeks waiting for physical core
-          samples to get tested at remote labs. Adopted by scores of the world's
-          largest general contractors.
+          SaaS platform combined with wireless sensors that monitor concrete
+          curing in real-time, allowing construction teams to resume work
+          without waiting weeks for physical core samples to be tested in remote
+          labs. They were adopted by many of the world's leading general
+          contractors.
+
 
 
           Acquired by HILTI.
@@ -133,10 +136,10 @@ sections:
         tagline: ''
         subtitle: AI for IoT
         text: >
-          Makes the process of building, deploying, and scaling embedded AI and
-          ML applications easier and faster than ever. Edge Impulse may already
-          be running on many of the consumer and commercial products you already
-          use.
+          Simplifying and accelerating the process of building, deploying, and
+          scaling embedded AI and ML applications, Edge Impulse may already be
+          integrated into many of the consumer and commercial products you
+          currently use.
 
 
           Currently Series B with $53M raised.
@@ -163,9 +166,9 @@ sections:
         tagline: ''
         subtitle: AI Enterprise Fintech
         text: >
-          rtzen is helping mid-market CFOs optimize treasury operations, by
-          using AI to ingest complicated, disparate financial data streams and
-          act autonomously to generate income.
+          Rtzen assists mid-market CFOs in optimizing treasury operations by
+          utilizing AI to process complex, disparate financial data streams and
+          autonomously generate income.
 
 
           Current Series Seed with $4M raised.

@@ -11,17 +11,21 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >
-      Jetpath Ventures helps technical founders define and execute a market
-      innovation path via initial customer acquisition, GTM strategy, up to
-      $100K of starter capital, product launch and fundraising assistance.
+    text: >+
+      Jetpath Ventures partners with technical founders to help define and
+      execute their market innovation strategy. We provide up to $100K in seed
+      capital, along with hands-on support to validate market opportunities and
+      acquire your first wave of customers. Following this, we assist you in
+      raising additional capital from our network of high-net-worth individuals
+      and venture capital firms.
 
 
-      **We love engineers building hard things.**
+      **Our passion is supporting engineers who are building hard things.** Our
+      investment focus is on cloud-native products that utilize real-time data
+      from remote machines, mobile applications, and data stores.
 
 
-      Our investment thesis focuses on cloud-native products that leverage
-      real-time data from remote machines, mobile apps, and data stores.
+
     actions: []
     media:
       type: VideoBlock

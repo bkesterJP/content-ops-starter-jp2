@@ -23,7 +23,7 @@ sections:
     media:
       type: VideoBlock
       title: Engineering Simplicity
-      url: /images/tech1080_25fps.mp4
+      url: /images/tech1080_25fps2.mp4
       autoplay: true
       loop: true
       muted: true
@@ -59,7 +59,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Companies
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center

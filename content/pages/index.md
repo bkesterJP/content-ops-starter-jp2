@@ -12,10 +12,10 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      Jetpath helps technical founders define and execute a market innovation
-      path via initial customer acquisition, GTM strategy, starter capital,
-      product launch and fundraising assistance. We love engineers building hard
-      things.
+      Jetpath Ventures helps technical founders define and execute a market
+      innovation path via initial customer acquisition, GTM strategy, starter
+      capital, product launch and fundraising assistance. We love engineers
+      building hard things.
 
 
       Our investment thesis focuses on cloud-native products that leverage

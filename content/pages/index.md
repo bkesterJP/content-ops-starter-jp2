@@ -104,10 +104,12 @@ sections:
         tagline: ''
         subtitle: IoT
         text: >
-          SaaS & wireless sensors to know when concrete is cured and work can
-          continue, saving construction teams weeks waiting for physical core
-          samples to get tested at remote labs. Adopted by scores of the world's
-          largest general contractors.
+          SaaS platform combined with wireless sensors that monitor concrete
+          curing in real-time, allowing construction teams to resume work
+          without waiting weeks for physical core samples to be tested in remote
+          labs. They were adopted by many of the world's leading general
+          contractors.
+
 
 
           Acquired by HILTI.

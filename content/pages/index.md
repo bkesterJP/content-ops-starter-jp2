@@ -12,9 +12,10 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      We help technical founders define and execute a market innovation path via
-      initial customer acquisition, GTM strategy, starter capital, product
-      launch and fundraising assistance. We love engineers building hard things.
+      Jetpath Ventures helps technical founders define and execute a market
+      innovation path via initial customer acquisition, GTM strategy, starter
+      capital, product launch and fundraising assistance. We love engineers
+      building hard things.
 
 
       Our investment thesis focuses on cloud-native products that leverage
@@ -23,7 +24,7 @@ sections:
     media:
       type: VideoBlock
       title: Engineering Simplicity
-      url: /images/tech1080_25fps2.mp4
+      url: /images/tech1080_25fps3.mp4
       autoplay: true
       loop: true
       muted: true

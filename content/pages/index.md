@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Hands-on help for disruptors
+      text: Hands-on help for real disruptors
       color: text-light
       styles:
         self:

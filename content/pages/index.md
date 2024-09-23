@@ -73,13 +73,14 @@ sections:
         tagline: ''
         subtitle: Development Tools
         text: >
-          Above is a no code data management platform that abstracts away
-          traditional database and logic layers so product managers can build
-          working prototype products in about a day—and quickly connect them to
-          a variety of systems and data sources.
+          Above is a no-code data management solution that simplifies database
+          and logic layers, enabling product managers to build functional
+          prototypes in a day and easily integrate them with various systems and
+          data sources.
 
 
-          Massive product still in moonlight development.
+
+          In development.
         image:
           type: ImageBlock
           url: /images/Above.png

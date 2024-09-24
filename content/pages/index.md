@@ -38,7 +38,7 @@ sections:
             - pl-0
             - pr-0
           borderColor: border-neutral
-          borderStyle: solid
+          borderStyle: double
           borderWidth: 2
           borderRadius: small
           margin:

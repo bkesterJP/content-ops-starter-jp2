@@ -39,7 +39,7 @@ sections:
             - pr-0
           borderColor: border-neutral
           borderStyle: solid
-          borderWidth: 4
+          borderWidth: 2
           borderRadius: small
           margin:
             - mr-0

@@ -37,7 +37,7 @@ sections:
             - pb-0
             - pl-0
             - pr-0
-          borderColor: border-neutralAlt
+          borderColor: border-dark
           borderStyle: dashed
           borderWidth: 2
           borderRadius: small

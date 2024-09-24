@@ -38,7 +38,7 @@ sections:
             - pl-2
             - pr-2
           borderColor: border-dark
-          borderStyle: none
+          borderStyle: solid
           borderWidth: 1
           borderRadius: small
           margin:

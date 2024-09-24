@@ -13,14 +13,13 @@ sections:
     subtitle: ''
     text: >
       Jetpath Ventures helps technical founders shape their business strategy
-      with up to $100K in seed capital and hands-on support to validate
-      opportunities and acquire early customers. We also assist in raising
-      additional capital from our HNW and VC network. Our focus is on
-      cloud-native products leveraging real-time data from remote machines,
-      mobile apps, and data stores.
+      with up to $100K in seed capital plus hands-on support to validate markets
+      and acquire early customers. We also assist in raising seed capital from
+      our HNW and VC network. Our focus is on cloud-native products leveraging
+      real-time data from remote machines, mobile apps, and data stores.
 
 
-      **Our passion is supporting engineers who are building hard things.** 
+      **Our passion is supporting engineers who are building hard things.**
     actions: []
     media:
       type: VideoBlock

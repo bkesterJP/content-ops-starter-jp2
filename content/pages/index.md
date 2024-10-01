@@ -135,7 +135,7 @@ sections:
         subtitle: AI for IoT
         text: >
           Simplifying and accelerating the process of building, deploying, and
-          scaling embedded AI and ML applications, Edge Impulse may already be
+          scaling embedded AI and ML applications. Edge Impulse may already be
           integrated into many of the consumer and commercial products you
           currently use.
 

@@ -15,10 +15,9 @@ sections:
       At Jetpath Ventures, we work with technical founders to help them nail
       down their business strategy. We offer up to $100K in seed funding and
       roll up our sleeves to help validate markets and land those first
-      customers. Plus, we can connect you with more funding through our network
-      of HNW individuals and VCs. Our sweet spot is cloud-native products that
-      make use of real-time data from remote machines, mobile apps, and data
-      stores. 
+      customers. Plus, we assist follow-on financing through our network of HNW
+      individuals and VCs. Our sweet spot is cloud-native products that make use
+      of real-time data from remote machines, mobile apps, and data stores.
     actions: []
     media:
       type: VideoBlock

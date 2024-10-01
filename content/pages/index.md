@@ -18,7 +18,7 @@ sections:
       customers. Plus, we can connect you with more funding through our network
       of HNW individuals and VCs. Our sweet spot is cloud-native products that
       make use of real-time data from remote machines, mobile apps, and data
-      stores. No fluff—just solid support to get you where you want to go.
+      stores. 
     actions: []
     media:
       type: VideoBlock

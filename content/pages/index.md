@@ -19,10 +19,6 @@ sections:
       of HNW individuals and VCs. Our sweet spot is cloud-native products that
       make use of real-time data from remote machines, mobile apps, and data
       stores. No fluff—just solid support to get you where you want to go.
-
-
-
-      **Our passion is supporting engineers who are building hard things.**
     actions: []
     media:
       type: VideoBlock
